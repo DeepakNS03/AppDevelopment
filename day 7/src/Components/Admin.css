@@ -1,0 +1,21 @@
+.footer_app{
+    margin-top: 484px;
+    background-color: grey;
+    height: 55px;
+    width: 1535px;
+  }
+  .privacy_content{
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 950px;
+    font-weight: bold;
+    font-size: 16px;
+  }
+  .term_content{
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
